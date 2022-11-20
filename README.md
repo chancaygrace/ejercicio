@@ -1,2 +1,0 @@
-# ejercicio
-ejercicio herencia 
